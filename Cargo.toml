@@ -1,0 +1,2 @@
+[workspace]
+members = ["crates/clia-redis-macros", "crates/redis-json"]
